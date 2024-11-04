@@ -1,1 +1,2 @@
-# rtd
+# RTD
+A slide puzzle game
